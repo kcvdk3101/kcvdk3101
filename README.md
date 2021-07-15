@@ -1,16 +1,13 @@
-### Hi there 👋
+## Welcome 👋
+**Nice to see you**
 
-<!--
-**kcvdk3101/kcvdk3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in Ho Chi Minh city
+- 🌱 I’m currently deeped in learning MERN website
+- 💬 Ask me about React, JavaScript, TypeScript
+- 📫 How to reach me: [**Discord**](https://discord.com/users/khoivuong#9217)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvdk3101&layout=compact)
+
+
