@@ -1,9 +1,11 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  
-:fire: Programming | :book: Reading Book | :notes: Listening to music
-  
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World !
+
+## Call me Chris :sparkles:🌼
+
 **I'm a Frontend Web Developer :clap:**
 
+### About me :dart:
+- :fire: Programming | :book: Reading Book | :notes: Listening to music
 - 🔭 I’m currently learing in Ho Chi Minh City
 - 🌱 I’m currently interested in learning MERN Website (ReactJS NodeJS)
 - 💬 Ask me about ReactJS, JavaScript
