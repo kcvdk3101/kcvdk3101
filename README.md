@@ -19,4 +19,4 @@
 
 ----
 
-![Khoi Vuong's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true&hide=["stars"]&theme=nightowl&count_private=true)
+![Khoi Vuong's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true&hide=["stars"]&theme=algolia&count_private=true)
