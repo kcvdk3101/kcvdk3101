@@ -22,4 +22,4 @@
 ![Khoi Vuong's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true&hide=["stars"]&theme=algolia&count_private=true)
 
 ----
-[![Administraion Mangement Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=administration-management)](https://github.com/kcvdk3101/administration-management)
+[![Administraion Mangement Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=administration-management&theme=buefy)](https://github.com/kcvdk3101/administration-management)
