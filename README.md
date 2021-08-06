@@ -17,11 +17,6 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvdk3101&layout=compact&theme=algolia)
 
-----
-
 ![Khoi Vuong's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true&hide=["stars"]&theme=algolia&count_private=true)
 
-----
-
-[![Administraion Mangement Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=administration-management&theme=buefy)](https://github.com/kcvdk3101/administration-management)
-[![Airport transfer Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=airport-transfer&theme=react)](https://github.com/kcvdk3101/airport-transfer)
+[![Airport transfer Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=airport-transfer&theme=buefy)](https://github.com/kcvdk3101/airport-transfer) [![Administraion Mangement Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=administration-management&theme=buefy)](https://github.com/kcvdk3101/administration-management)
