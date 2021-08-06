@@ -20,3 +20,9 @@
 ![Khoi Vuong's github stats](https://github-readme-stats.vercel.app/api?username=kcvdk3101&show_icons=true&hide=["stars"]&theme=algolia&count_private=true)
 
 [![Airport transfer Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=airport-transfer&theme=buefy)](https://github.com/kcvdk3101/airport-transfer) [![Administraion Mangement Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=administration-management&theme=buefy)](https://github.com/kcvdk3101/administration-management)
+
+[![Course App Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=course-app&theme=flag-india)](https://github.com/kcvdk3101/course-app) [![Figma Design Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=figma-design&theme=flag-india)](https://github.com/kcvdk3101/figma-design)
+
+[![Rental Car Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=rent-car-app&theme=buefy)](https://github.com/kcvdk3101/rent-car-app) [![Figma Design Card](https://github-readme-stats.vercel.app/api/pin/?username=kcvdk3101&repo=nestjs-rent-car-app&theme=buefy)](https://github.com/kcvdk3101/nestjs-rent-car-app)
+
+
